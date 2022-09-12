@@ -1,0 +1,6 @@
+.expenses-filter {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+}

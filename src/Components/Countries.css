@@ -1,0 +1,47 @@
+body {
+    background-color: hsl(0, 0%, 98%);
+}
+
+.flag {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.inner-info {
+    /* background-color: rgb(255, 255, 255); */
+    /* width: 10%; */
+    cursor: pointer;
+    width: 20%;
+    margin: 20px;
+    background-color: white;
+    /* margin: 10px; */
+    /* margin: auto; */
+
+    /* flex: 1 0 %; */
+}
+
+.country {
+    /* display: flex;
+    flex-wrap: wrap;
+    margin: 10px; */
+    /* margin: auto; */
+    /* width: 30%; */
+    /* height: 50%; */
+    /* display: flex; */
+    /* display: flex; */
+    /* flex-wrap: nowrap; */
+
+}
+
+.test {
+    display: block;
+    justify-content: center;
+    width: 20%;
+    height: 20vh;
+}
+
+.dnone {
+    display: none;
+}
